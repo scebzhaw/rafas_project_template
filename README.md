@@ -1,4 +1,4 @@
-Björn Scheppler, 17.9.2017
+Raphael Schertenleib, 26.10.2017
 
 # Read Me project-template
 In diesem Projekt geht es darum, aufzuzeigen, wie Camunda per Spring Boot mit integriertem Tomcat und filebasierter H2-Datenbank genutzt werden kann.
